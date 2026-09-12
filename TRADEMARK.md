@@ -4,9 +4,9 @@ Version 1.0 - March 2026
 
 ## Overview
 
-TeamHero and Kapow are open source software projects released under the MIT License. The MIT License gives you broad rights to use, modify, and distribute the **code**. However, this license does not grant any rights to use the **TeamHero** or **Kapow** trademarks, logos, or branding.
+Kapow is proprietary software and is not open source. TeamHero may be distributed separately under an open-source license where expressly identified. Software licenses and trademark rights are separate: neither the Kapow proprietary license nor an open-source license for a separately distributed component grants rights to use the **TeamHero** or **Kapow** trademarks, logos, or branding.
 
-This trademark policy exists to protect users and the community from confusion about the origin of products and services, while keeping things as open and permissive as possible.
+This trademark policy exists to protect users from confusion about the origin of products and services.
 
 **Trademarks covered by this policy:**
 - "TeamHero" (word mark)
@@ -75,9 +75,11 @@ The following uses are **not permitted** and will not be approved:
 
 ---
 
-## Forked or Modified Versions
+## Authorized Forks or Modified Versions
 
-If you fork or create a modified version of TeamHero or Kapow, the MIT License gives you every right to do so. However:
+Kapow proprietary software may not be forked or modified except where the Kapow license, applicable law, or written permission expressly allows it. If a separately distributed TeamHero component or another component is provided under an open-source license that permits modification, that license governs the code but does not grant trademark rights.
+
+For any fork or modified version that is otherwise authorized:
 
 1. **You MUST rename your fork.** Your forked or modified version cannot use "TeamHero," "Kapow," or any confusingly similar name (e.g., "TeamHero Plus," "Kapow Pro," "OpenTeamHero").
 2. **You MUST remove all TeamHero and Kapow logos and branding** from your fork, including icons, splash screens, and marketing materials.
@@ -85,9 +87,7 @@ If you fork or create a modified version of TeamHero or Kapow, the MIT License g
 
    > This project is an independent fork and is not affiliated with, endorsed by, or connected to TeamHero, Kapow, or Sagi Yaacoby.
 
-4. You are free to state that your project is "based on TeamHero" or "derived from TeamHero" as a factual description of its origin.
-
-These rules follow the same approach used by WordPress, Docker, Node.js, and Rust - the code is free, but the name stays with the project.
+4. You may accurately describe the software component on which the project is based, provided the statement does not imply endorsement or affiliation.
 
 ---
 
@@ -105,7 +105,7 @@ If you are unsure whether your intended use is permitted, please ask. We would r
 
 ## Why This Policy Exists
 
-Open source licenses like MIT cover copyright - they let you use, modify, and share the code. But they do not cover trademarks. Without a trademark policy:
+Software licenses govern copyright permissions; this policy governs the Kapow and TeamHero trademarks. A proprietary or open-source software license does not itself grant trademark rights. Without a trademark policy:
 
 - Anyone could release software called "TeamHero" that has nothing to do with this project.
 - Users could be confused about which version is official and which is a fork.

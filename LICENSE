@@ -1,21 +1,15 @@
-MIT License
+Kapow Proprietary Software Notice
 
-Copyright (c) 2024-2026 Sagi Yaacoby
+Copyright (c) 2024-2026 Sagi Yaacoby. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Kapow is proprietary software and is not open source. This repository distributes official Kapow release binaries and related update metadata. It does not grant an MIT license or any other open-source license to Kapow proprietary software.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Use of Kapow is governed by the Kapow Terms of Use and Proprietary Software License:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+https://gokapow.com/license
+
+Except where that agreement or applicable law expressly permits it, you may not copy, redistribute, reverse engineer, decompile, disassemble, modify, sublicense, sell, transfer, or create derivative works from Kapow proprietary software.
+
+Components specifically identified as open source remain governed by their applicable licenses. TeamHero, where separately distributed under an open-source license, is governed by that separate license. Third-party components, services, runtimes, and models remain governed by their respective licenses and terms.
+
+The names Kapow and TeamHero and their associated logos are trademarks of Sagi Yaacoby. See TRADEMARK.md for the trademark policy.

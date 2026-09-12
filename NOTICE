@@ -1,12 +1,19 @@
-TeamHero
+Kapow
 Copyright (c) 2024-2026 Sagi Yaacoby
 
-This software is licensed under the MIT License. See the LICENSE file for details.
+Kapow is proprietary software and is not open source. Use is governed by the
+Kapow Terms of Use and Proprietary Software License:
+
+https://gokapow.com/license
+
+Components specifically identified as open source remain governed by their
+applicable licenses. TeamHero, where separately distributed under an
+open-source license, is governed by that separate license. Third-party
+components remain governed by their respective licenses and terms.
 
 TRADEMARK NOTICE
 
-"TeamHero" and "Kapow" are trademarks of Sagi Yaacoby. The MIT License
-grants rights to the software code only and does not grant permission to use
-the TeamHero or Kapow names, logos, or trademarks.
+"TeamHero" and "Kapow" and their associated logos are trademarks of Sagi
+Yaacoby. Software licenses do not grant permission to use those trademarks.
 
 For the full trademark policy, see TRADEMARK.md.

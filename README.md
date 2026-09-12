@@ -1,10 +1,10 @@
 # Kapow Releases
 
-Official release distribution for **Kapow** - the AI agent management platform by [Sagi Yaacoby](https://gokapow.com).
+Official binary release distribution for **Kapow**, the AI agent management platform by [Sagi Yaacoby](https://gokapow.com).
 
 ## Downloads
 
-Check the [Releases](https://github.com/sagiyaacoby/kapow-releases/releases) page for the latest installer.
+Download the latest installer from the [Releases](https://github.com/sagiyaacoby/kapow-releases/releases) page.
 
 ## Auto-Update
 
@@ -13,14 +13,25 @@ Kapow checks this repository for updates automatically. The `update.json` asset 
 ## Links
 
 - Website: [gokapow.com](https://gokapow.com)
+- License: [Kapow Terms of Use and Proprietary Software License](https://gokapow.com/license)
 - Support: Open an issue in this repository
 
 ## License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+**Kapow is proprietary software and is not open source.**
 
-Kapow is open source software released under the [MIT License](LICENSE).
+Use of Kapow is governed by the [Kapow Terms of Use and Proprietary Software License](https://gokapow.com/license). Downloading a release does not grant rights to copy, redistribute, reverse engineer, modify, sublicense, or create derivative versions of Kapow except where the Kapow license or applicable law expressly permits it.
 
-You are free to use, modify, and distribute the code. However, the names "TeamHero" and "Kapow" are trademarks of Sagi Yaacoby. Forked or modified versions must be renamed and may not use the TeamHero or Kapow names or logos.
+See the repository [LICENSE](LICENSE) notice for a concise summary.
 
-See [TRADEMARK.md](TRADEMARK.md) for the full trademark policy.
+## Open-Source Components
+
+Components specifically identified as open source remain governed by their applicable licenses. TeamHero, where separately distributed under an open-source license, is governed by that separate license. Third-party components, services, runtimes, and models are governed by their respective licenses and terms.
+
+An open-source or third-party component included with or used by Kapow does not make Kapow proprietary software open source.
+
+## Trademarks
+
+**Kapow**, **TeamHero**, and their associated logos are trademarks of Sagi Yaacoby. Trademark rights are separate from software copyright and license rights.
+
+See [TRADEMARK.md](TRADEMARK.md) for the trademark policy.
