@@ -6,10 +6,6 @@ Official binary release distribution for **Kapow**, the AI agent management plat
 
 Download the latest installer from the [Releases](https://github.com/sagiyaacoby/kapow-releases/releases) page.
 
-## Auto-Update
-
-Kapow checks this repository for updates automatically. The `update.json` asset in each release contains version metadata used by the built-in updater.
-
 ## Links
 
 - Website: [gokapow.com](https://gokapow.com)
